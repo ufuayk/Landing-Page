@@ -1,6 +1,8 @@
 # 🌐 Landing-Page
 
-An example of a simple one-page portfolio site with tiny animations developed using HTML and CSS. *https://coderyello.github.io/*
+An example of a simple one-page portfolio site with tiny animations developed using HTML and CSS. 
+
+*https://coderyello.github.io/*
 
 ![image](https://raw.githubusercontent.com/CoderYello/Landing-Page/main/screenshots/screenshot.png)
 
